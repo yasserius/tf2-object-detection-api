@@ -1,5 +1,7 @@
 # Deep Dive: Tensorflow 2 Object Detection API
 
+**UNDER CONSTRUCTION**
+
 **TL;DR: not a tutorial, just some helpful resources and utility scripts to ease your custom training**
 
 The Tensorflow 2 Object Detection API is by far the best way to train state-of-the-art models by Google, especially for beginners.
