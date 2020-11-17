@@ -1,7 +1,5 @@
 # Deep Dive: Tensorflow 2 Object Detection API
 
-**UNDER CONSTRUCTION**
-
 **TL;DR: not a tutorial, just some helpful resources and utility scripts to ease your custom training**
 
 The Tensorflow 2 Object Detection API is by far the best way to train state-of-the-art models by Google, especially for beginners.
@@ -165,11 +163,8 @@ img = img[:, :, 0:3]
 ```
 Afterwards, you can input the numpy image into the [inference program](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/auto_examples/plot_object_detection_checkpoint.html#sphx-glr-auto-examples-plot-object-detection-checkpoint-py).
 
-# Define Your Own Model Architecture and Initialization
+# Closing thoughts
 
-# Make Your Own Training Loop
-
-
-```python
-
-```
+Hope you found the code snippets and resources useful.
+I have a [colab](https://colab.research.google.com/github/yasserius/satellite_image_tinhouse_detector/blob/main/training.ipynb) with the full training code if you want a full working example.
+Thanks!
